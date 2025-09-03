@@ -3,7 +3,7 @@
     url = https://github.com/HWC003/sam2.git
 [submodule "external/grounded-sam2"]
     path = external/grounded-sam2
-    url = https://github.com/HWC003/grounded-sam2.git
+    url = https://github.com/HWC003/Grounded-SAM2.git
 
 [submodule "external/EdgeTAM"]
 	path = external/EdgeTAM
