@@ -1,6 +1,7 @@
 [submodule "external/sam2"]
-	path = external/sam2
-	url = https://github.com/facebookresearch/sam2.git
+    path = external/sam2
+    url = https://github.com/HWC003/sam2.git
 [submodule "external/grounded-sam2"]
-	path = external/grounded-sam2
-	url = https://github.com/IDEA-Research/Grounded-SAM-2.git
+    path = external/grounded-sam2
+    url = https://github.com/HWC003/grounded-sam2.git
+
